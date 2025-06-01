@@ -130,20 +130,7 @@ Veja os arquivos de exemplo na raiz do projeto:
 - `teste-pedido.json` - Casos de teste
 - `novo-teste-pedido.json` - Novos cenários
 
-## 🤝 Contribuindo
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 📞 Contato
-
-- **Projeto**: Loja do Seu Manoel
-- **Versão**: 1.0.0
-- **Documentação**: Disponível via Swagger UI
